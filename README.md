@@ -43,7 +43,7 @@ CONTINENT - Continent in which the country is
 1) Create a database named employee, then import data_science_team.csv proj_table.csv and emp_record_table.csv into the employee database from the given resources
 2) Create an ER diagram for the given employee database
 3) Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT from the employee record table, and make a list of employees and details of their department 
-4) Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPARTMENT, and EMP_RATING if the EMP_RATING is: • less than two • greater than four • between two and four
+4) Write a query to fetch EMP_ID, FIRST_NAME, LAST_NAME, GENDER, DEPARTMENT, and EMP_RATING if the EMP_RATING is:  • less than two • greater than four • between two and four
 5) Write a query to concatenate the FIRST_NAME and the LAST_NAME of employees in the Finance department from the employee table and then give the resultant column alias as NAME.
 6) Write a query to list only those employees who have someone reporting to them. Also, show the number of reporters (including the President).
 7) Write a query to list down all the employees from the healthcare and finance departments using union. Take data from the employee record table.
